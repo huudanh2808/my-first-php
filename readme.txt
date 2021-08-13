@@ -1,0 +1,1 @@
+docker run --rm --interactive --tty  --volume D:\projects\personal\php-training\app\public:/app composer dumpautoload --optimize
